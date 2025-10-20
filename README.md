@@ -1,1 +1,1 @@
-"# Readme.md" 
+This is for Cloud Computing Journal
